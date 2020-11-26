@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Surf"
+date:   2020-11-22 20:28:43 +0100
+categories: blog
+background: '/img/posts/01.jpg'
+---
+El **surf** es un deporte acuático que consiste en realizar amplios giros y maniobras aprovechando la fuerza de una ola, sobre una tabla.
+
+Se tiene constancia de la presencia del surf desde hace más de 500 años en las islas de Polinesia. El explorador inglés James Cook llegó a Hawái en 1778, donde conoció el Bodysurfing (similar a este deporte pero sin tabla) y el Bodyboard.
+
+Durante los años 50 y 60. Entonces las tablas se tallaban en madera maciza volviendo al surf una práctica muy sencilla debido a la facilidad de elaborar las tablas. Más tarde fue evolucionando hasta convertirse en un deporte completo. Así fueron creados acrobacias, movimientos, diversos diseños y materiales que permitieran masificar el surf volviéndolo multidisciplinario y polivalente.
+
+![Tablas talladas](https://cdn.shopify.com/s/files/1/0113/8553/6569/articles/surf-surfboard-history-1778-to-2018-an-indepth-time-machine_700x.jpg?v=1539335560)
+
+El surf se popularizó en los años 60 en muchos continentes. Pasando a ser practicado en casi todo el mundo. Entre los destinos más solicitados por los viajeros practicantes están Australia y el Sudeste Asiático.

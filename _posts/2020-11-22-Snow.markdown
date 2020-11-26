@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Snowboarding"
+date:   2020-11-22 20:28:43 +0100
+categories: blog
+background: '/img/posts/02.jpg'
+---
+El **snowboard** es un deporte extremo de invierno, en el que se utiliza una tabla para deslizarse sobre una pendiente cubierta por nieve. El equipo básico para practicarlo son la mencionada tabla, las fijaciones y las botas.
+
+Las primeras evidencias de este deporte se remontan a principios del 1910, cuando la gente quería fijar sus pies a un tablón de madera contrachapada mediante cuerdas de pesca y riendas de caballos para poder bajar por las pendientes de las montañas nevadas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F78p6ut0Kmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+La tabla de nieve empezó en el 1965 cuando Sherman Poppen, un ingeniero de Muskegon, Michigan, inventó un juguete para sus hijas juntando dos esquíes y atándolos a una cuerda con la cual tener control sobre la tabla. Lo llamó snurfer -una fusión de dos voces: snow (nieve) y surf- y fue tan popular que Sherman Poppen vendió la licencia a una empresa, Brunswick Corporation, que consiguió vender cerca de un millón de snurfers durante la siguiente década, más de medio millón solo en 1966.
+
+El snowboard se hizo más popular al final de la década de los 70 y los 80, los pioneros como Dimitrije Milovich, Jake Burton, Tom Sims y Chuck Barfoot (fundador de Gnu Snowboard) llegaron con nuevos diseños, mecanismos y equipamientos relacionados que poco a poco se han ido desarrollando en el mundo del snowboard y que hoy en día se conocen

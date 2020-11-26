@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Skate"
+date:   2020-11-22 20:28:43 +0100
+categories: blog
+background: '/img/posts/03.jpg'
+---
+
+El **skateboarding** o simplemente skate, es un deporte que consiste en deslizarse sobre un monopatín y a la vez poder realizar diversos trucos, gran parte de ellos elevando la tabla del suelo, haciendo piruetas con ella en el aire.2​ Se practica con un monopatín o patineta, tabla de madera plana y doblada por los extremos que tiene dos ejes y cuatro ruedas, con dos rodamientos en cada una de sus cuatro ruedas, preferentemente en una superficie plana, en cualquier lugar donde se pueda rodar, ya sea en la calle o en los parques de patinaje.
+
+El surgimiento de este deporte extremo tiene lugar en el estado de California en las décadas de 1960 y 1970, época en la cual los deportes extremos como el surf gozaban de un gran auge mundial. El motivo principal de la creación del monopatinaje se basa en la sustitución de la tabla de surf en tierra. Los primeros diseños de estas consistían en solo un pedazo de madera cualquiera alterado con ruedas de patines principalmente. Luego para el año 1972 se comenzaron a fabricar tablas de monopatín con una tecnología más avanzada y específica para esa modalidad. Los materiales de fabricación consistían en hierro suave, de poca resistencia, arcilla y caucho. Más adelante en 1972 se comenzó a notar por medio de revistas y los medios de comunicación este interés por las tablas. Para los años 1975 y 1980 ya la modalidad estaba difundida por todo Estados Unidos. Finalmente para comienzos de la década de 1980, el monopatinaje estaba expandido por todo el mundo, la juventud la adquirió como suya, al igual que los espacios públicos, ya que estos los propios para poder practicar el deporte.4​ Creado a partir de una variación del surf, este suele ser un reclamo publicitario para los jóvenes (monopatinadores o no).
+
+Os recomiendo esta **Playlist** para escuchar mientras patináis:
+
+<iframe src="https://open.spotify.com/embed/playlist/1oDPiYzELW5DTSa81wy04E" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
